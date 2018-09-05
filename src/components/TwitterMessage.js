@@ -1,5 +1,5 @@
 import React from "react";
-import ProtoType from 'prototype'
+import Proto-types from 'proto-types'
 
 class TwitterMessage extends React.Component {
   constructor() {
