@@ -1,5 +1,5 @@
 import React from "react";
-import Prop-types from 'prop-types'
+import PropTypes from "prop-types";
 
 class TwitterMessage extends React.Component {
   constructor() {
