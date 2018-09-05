@@ -1,7 +1,6 @@
 import React from "react";
 import Prop-types from 'prop-types'
 
-c
 class TwitterMessage extends React.Component {
   constructor() {
     super();
